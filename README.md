@@ -2,4 +2,6 @@
 
 This is a Recipes project from www.theodinproject.com.
 
-Demonstraton of HTML and git.
+Demonstration of HTML and git.
+
+Have personally tried all 3 recipes. Not bad.
